@@ -1,0 +1,71 @@
+.app-content.app-sidebar-left .container {
+    min-height: 100vh;
+  }
+
+#deletemodel .modal-body {
+  padding: 30px;
+}
+#deletemodel .modal-body h4 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #c29191;
+  padding-top: 35px;
+}
+#deletemodel .modal-body p {
+  font-size: 17px;
+  padding-top: 30px;
+}
+#deletemodel .modal-footer {
+    text-align: center;
+}
+
+.user-table thead th {
+    text-align: center;
+}
+.modal-userinfo .modal-footer.text-center {
+    text-align: center;
+}
+.row.profile-head {
+    padding: 16px 16px 0px 16px;
+}
+
+#loadingDiv {
+  width: 100%;
+  text-align: center;
+  background: #dacdcd57;
+  overflow: hidden;
+  height: 100%;
+  opacity: 0.9;
+  position: absolute;
+  z-index: 9999;
+}
+#loadingDiv .app-spinner.loading {
+    text-align: center !important;
+    margin: 0 auto;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 50%;
+    top: 50%;
+}
+
+.notfound-text {
+  text-align: center;
+}
+.notfound-text h1 {
+  font-size: 100px;
+  color: #fff;
+  font-weight: 700;
+  padding: 5px;
+}
+.notfound-text h3 {
+  font-size: 35px;
+  color: #efc2c2;
+  padding: 10px;
+  margin-top: 12px;
+}
+
+.col-md-12.usermessage {
+    padding: 0px 45px;
+}
